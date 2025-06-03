@@ -1,0 +1,7 @@
+E:\SCHOOL WORK\rumbidzai audrey mateke ram doc\74740_RumbidzaiAudreyMateke_Project1\74740_RumbidzaiAudreyMateke_Project1\bin\Debug\74740_RumbidzaiAudreyMateke_Project1.exe.config
+E:\SCHOOL WORK\rumbidzai audrey mateke ram doc\74740_RumbidzaiAudreyMateke_Project1\74740_RumbidzaiAudreyMateke_Project1\bin\Debug\74740_RumbidzaiAudreyMateke_Project1.exe
+E:\SCHOOL WORK\rumbidzai audrey mateke ram doc\74740_RumbidzaiAudreyMateke_Project1\74740_RumbidzaiAudreyMateke_Project1\bin\Debug\74740_RumbidzaiAudreyMateke_Project1.pdb
+E:\SCHOOL WORK\rumbidzai audrey mateke ram doc\74740_RumbidzaiAudreyMateke_Project1\74740_RumbidzaiAudreyMateke_Project1\obj\Debug\74740_RumbidzaiAudreyMateke_Project1.csproj.AssemblyReference.cache
+E:\SCHOOL WORK\rumbidzai audrey mateke ram doc\74740_RumbidzaiAudreyMateke_Project1\74740_RumbidzaiAudreyMateke_Project1\obj\Debug\74740_RumbidzaiAudreyMateke_Project1.csproj.CoreCompileInputs.cache
+E:\SCHOOL WORK\rumbidzai audrey mateke ram doc\74740_RumbidzaiAudreyMateke_Project1\74740_RumbidzaiAudreyMateke_Project1\obj\Debug\74740_RumbidzaiAudreyMateke_Project1.exe
+E:\SCHOOL WORK\rumbidzai audrey mateke ram doc\74740_RumbidzaiAudreyMateke_Project1\74740_RumbidzaiAudreyMateke_Project1\obj\Debug\74740_RumbidzaiAudreyMateke_Project1.pdb
